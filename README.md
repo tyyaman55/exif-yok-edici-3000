@@ -1,14 +1,14 @@
-# EXIF Yok Edici 3000
+# ![Logo](https://raw.githubusercontent.com/tyyaman55/exif-yok-edici-3000/refs/heads/main/exif_yok_edici_3000.ico) EXIF Yok Edici 3000
 
 ![Logo](https://img.shields.io/badge/python-3.x-blue.svg)
 ![Logo](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
-![Logo](https://img.shields.io/badge/license-GPL%203.0-green.svg)
+![Logo](https://img.shields.io/badge/license-GPL3-green.svg)
 
 ## Dizin
 
 - [Hakkında](#hakkında)
 - [Özellikler](#özellikler)
-- [Gereknisimler](#gereksinimler)
+- [Gereksinimler](#gereksinimler)
 - [Kurulum](#kurulum)
 - [Özelleştirme](#özelleştirme)
 
@@ -21,6 +21,9 @@
 - **Toplu işlem:** Birden fazla görsel birkaç salisede temizlenir.
 - **İlerleme izleyici:** Yapılan işlem ilerleme çubuğuyla takip edilir. Yüksek sayıda görsel işlenirken yaşanan gecikmelerde "Çalışıyo' mu lan bu?" diye endişelenmeyi önler.
 - **Temiz arayüz:** Basit ve anlaşılır tasarım ile kolay kullanım. Yarım akıllı alternatif programcıklardaki gibi bir anlık işlem için beş saniye reklam gösterme yamyamlığı yapılmamıştır.
+
+## İndirme
+Çalışır hâldeki .exe dosyası sağ tablodaki *releases* başlığından indirilebilir. Devam eden içerik kaynak kodlarına dairdir.
   
 ## Gereksinimler
 - **Python:** 3.7 veya üzeri sürüm
@@ -48,4 +51,4 @@
 
 ## Özelleştirme
 1. Programcığın simgesi BASE64 verisi ile tanımlanıır. Bunun için dosya açılarak `program simgesinin BASE64 verisi` kısmına bu veri bütünü olduğu yapıştırılmalıdır. Aksi hâlde programcık çalışır ama ufak bir pencere açarak simgenin bulunamadığına dair bilgi verir.
-2. Geliştirici bilgisine tanımlı olan bağlantı ve geliştirici adı kısmı da düzenlenmebilir.
+2. Geliştirici bilgisine tanımlı olan bağlantı ve geliştirici adı kısmı da düzenlenebilir.
