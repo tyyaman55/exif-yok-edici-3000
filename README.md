@@ -8,6 +8,7 @@
 
 - [Hakkında](#hakkında)
 - [Özellikler](#özellikler)
+- [İndirme](#indirme)
 - [Gereksinimler](#gereksinimler)
 - [Kurulum](#kurulum)
 - [Özelleştirme](#özelleştirme)
@@ -23,7 +24,7 @@
 - **Temiz arayüz:** Basit ve anlaşılır tasarım ile kolay kullanım. Yarım akıllı alternatif programcıklardaki gibi bir anlık işlem için beş saniye reklam gösterme yamyamlığı yapılmamıştır.
 
 ## İndirme
-Çalışır hâldeki .exe dosyası sağ tablodaki *releases* başlığından indirilebilir. Devam eden içerik kaynak kodlarına dairdir.
+Çalışır hâldeki .exe dosyası sağ tablodaki *releases* başlığından ya da direkt olarak [buradan](https://github.com/tyyaman55/exif-yok-edici-3000/releases/download/v1.0/EXIF.Yok.Edici.3000.exe) indirilebilir. Devam eden içerik kaynak kodlarına dairdir.
   
 ## Gereksinimler
 - **Python:** 3.7 veya üzeri sürüm
