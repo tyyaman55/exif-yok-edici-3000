@@ -1,2 +1,3 @@
 Pillow
-tkhtmlview
+customtkinter
+tkinterdnd2
