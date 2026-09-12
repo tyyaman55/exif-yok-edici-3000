@@ -1,7 +1,7 @@
 # ![Logo](https://raw.githubusercontent.com/tyyaman55/exif-yok-edici-3000/refs/heads/main/exif_yok_edici_3000.ico) EXIF Yok Edici 3000
 
 ![Logo](https://img.shields.io/badge/python-3.x-blue.svg)
-![Logo](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
+![Logo](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![Logo](https://img.shields.io/badge/license-GPL%203.0-green.svg)
 
 ## Dizin
@@ -9,6 +9,7 @@
 - [Hakkında](#hakkında)
 - [Özellikler](#özellikler)
 - [İndirme](#indirme)
+- [Görüntüler](#görüntüler)
 - [Gereksinimler](#gereksinimler)
 - [Kurulum](#kurulum)
 - [Özelleştirme](#özelleştirme)
@@ -29,7 +30,14 @@
 - **Temiz arayüz:** Basit ve anlaşılır tasarım ile kolay kullanım. Yarım akıllı alternatif programcıklardaki gibi bir anlık işlem için beş saniye reklam gösterme yamyamlığı yapılmamıştır.
 
 ## İndirme
-Çalışır hâldeki .exe dosyası sağ tablodaki *releases* başlığından ya da direkt olarak [buradan](https://github.com/tyyaman55/exif-yok-edici-3000/releases/download/v1.1/EXIF.Yok.Edici.3000.v1.1.exe) indirilebilir. Devam eden içerik kaynak kodlarına dairdir.
+Çalışır hâldeki .exe dosyası sağ tablodaki *releases* başlığından ya da direkt olarak [buradan](https://github.com/tyyaman55/exif-yok-edici-3000/releases/download/v1.1/EXIF.Yok.Edici.3000.v1.1.exe) indirilebilir. Devam eden içerik teknik bilgilere dairdir.
+
+## Görüntüler
+| Açık tema | Koyu tema |
+| :---: | :---: |
+| ![EXIF Yok Edici 3000](https://i.imgur.com/qJAv0Tb.png) | ![EXIF Yok Edici 3000](https://i.imgur.com/CCyumEo.png) |
+| ![EXIF Yok Edici 3000](https://i.imgur.com/blUxNMY.png) | ![EXIF Yok Edici 3000](https://i.imgur.com/Bks6KbV.png) |
+| ![EXIF Yok Edici 3000](https://i.imgur.com/mW4iZAD.png) | ![EXIF Yok Edici 3000](https://i.imgur.com/2s7W1wK.png) |
   
 ## Gereksinimler
 - **Python:** 3.7 veya üzeri sürüm
