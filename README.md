@@ -2,7 +2,7 @@
 
 ![Logo](https://img.shields.io/badge/python-3.x-blue.svg)
 ![Logo](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
-![Logo](https://img.shields.io/badge/license-GPL3-green.svg)
+![Logo](https://img.shields.io/badge/license-GPL%203.0-green.svg)
 
 ## Dizin
 
@@ -17,14 +17,19 @@
 **EXIF Yok Edici 3000**, görsellerin EXIF üstverilerini hızlı ve kolay bir şekilde temizlemeyi sağlayan basit bir programcıktır. Konum, cihaz bilgisi, çekilme/hazırlama tarihi gibi gizliliği ve veri güvenliğini ihlal eden üstveri bilgilerini arındırır.
 
 ## Özellikler
-- **Görsel ekleme:** JPG, JPEG, PNG, GIF, BMP ve TIFF formatındaki görseller desteklenir.
+- **Görsel biçim desteği:** JPG, JPEG, PNG, GIF, BMP ve TIFF formatındaki görseller desteklenir.
+- **Sürükle-bırak:** Görseller veya görsel içeren klasörler doğrudan pencereye sürüklenip bırakılabilir.
+- **Klasör ile ekleme:** Görsel Ekle menüsünden tek tıkla belirli bir klasördeki tüm desteklenen görseller eklenebilir.
 - **Çıktı klasörü seçimi:** Arındırılan görseller farklı bir klasöre kaydedilebilir. Klasör seçilmezse özgün dosyaların üzerine kayıt edilir.
 - **Toplu işlem:** Birden fazla görsel birkaç salisede temizlenir.
 - **İlerleme izleyici:** Yapılan işlem ilerleme çubuğuyla takip edilir. Yüksek sayıda görsel işlenirken yaşanan gecikmelerde "Çalışıyo' mu lan bu?" diye endişelenmeyi önler.
+- **Dosya boyutu gösterimi:** Her görselin yanında dosya boyutu görüntülenir.
+- **Görsel sayacı:** Eklenen toplam görsel sayısı canlı olarak gösterilir.
+- **Tek tek ya da tümünü temizle:** Listedeki tüm görseller tek tıkla kaldırılabildiği gibi tek tek dosyalar da kaldırıabilir.
 - **Temiz arayüz:** Basit ve anlaşılır tasarım ile kolay kullanım. Yarım akıllı alternatif programcıklardaki gibi bir anlık işlem için beş saniye reklam gösterme yamyamlığı yapılmamıştır.
 
 ## İndirme
-Çalışır hâldeki .exe dosyası sağ tablodaki *releases* başlığından ya da direkt olarak [buradan](https://github.com/tyyaman55/exif-yok-edici-3000/releases/download/v1.0/EXIF.Yok.Edici.3000.exe) indirilebilir. Devam eden içerik kaynak kodlarına dairdir.
+Çalışır hâldeki .exe dosyası sağ tablodaki *releases* başlığından ya da direkt olarak [buradan](https://github.com/tyyaman55/exif-yok-edici-3000/releases/download/v1.1/EXIF.Yok.Edici.3000.v1.1.exe) indirilebilir. Devam eden içerik kaynak kodlarına dairdir.
   
 ## Gereksinimler
 - **Python:** 3.7 veya üzeri sürüm
@@ -32,8 +37,8 @@
 
 #### Gerekli kütüphaneler
 - **Pillow:** 9.0 veya üzeri sürüm
-- **tkinter:** 8.6 veya üzeri sürüm
-  - **tkhtmlview:** 0.1 veya üzeri sürüm
+- **customtkinter:** 5.0 veya üzeri sürüm
+  - **tkinterdnd2:** 0.3 veya üzeri sürüm
 
 ## Kurulum
 1. Depoyu klonla:
